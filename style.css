@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color: gray;
+}
+.main{
+    background-color: teal;
+}
+h3{
+    font-size: 2rem;
+    text-align: center;
+    color: yellow;
+}
+p{
+    font-size: 20px;
+    color: aqua;
+}
