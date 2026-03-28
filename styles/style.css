@@ -1,0 +1,66 @@
+.font{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+}
+
+/* common designing start here */
+.dark-2{
+    color: #474747;
+}
+.btn{
+    background-color: #FD6E0A;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    border: none;
+    padding: 18px 35px;
+    cursor: pointer;
+}
+
+/* nav designing start here  */
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin:50px 200px; */
+}
+.nav .logo{
+    font-size: 45px;
+    font-weight: 800px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.nav .logo span{
+    color: #FD6E0A;
+}
+
+.nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    list-style: none;
+
+    
+}
+.nav ul li{
+    margin-right: 50px;
+    margin-top: 50px;
+
+}
+        
+
+.nav ul li a{
+    text-decoration: none;
+
+}
